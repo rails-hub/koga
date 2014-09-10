@@ -5,8 +5,6 @@
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:5432/prelaunchr</jdbc-url>
-      <user-name>postgres</user-name>
-      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails koga: test" uuid="5983a80c-93d7-4fb3-a42a-f5916ff3f1b5">
