@@ -12,18 +12,17 @@ gem 'pg'
 # in production environments by default
 #
 # .
-gem 'activeadmin'
 gem 'sass-rails'
 gem "meta_search", '>= 1.1.0.pre'
 
-group :assets do
-  gem 'coffee-rails', '~> 3.2.1'
+gem 'coffee-rails', '~> 3.2.1'
 
-  # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  gem 'therubyracer', :platforms => :ruby
+# See https://github.com/sstephenson/execjs#readme for more supported runtimes
+gem 'therubyracer', :platforms => :ruby
 
-  gem 'uglifier', '>= 1.0.3'
-end
+gem 'uglifier', '>= 1.0.3'
+
+gem 'activeadmin'
 
 gem 'jquery-rails'
 
