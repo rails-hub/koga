@@ -8,8 +8,8 @@ development:
   database: prelaunchr
   pool: 5
   encoding: unicode
-  host: localhost
-  port: 5432
+#  host: localhost
+#  port: 5432
 #  username: postgres
 #  password: postgres
 
@@ -21,8 +21,8 @@ test:
   database: prelaunchr_test
   pool: 5
   encoding: unicode
-  host: localhost
-  port: 5432
+#  host: localhost
+#  port: 5432
 #  username: postgres
 #  password: postgres
 
@@ -31,7 +31,7 @@ production:
   database: prelaunchr
   pool: 5
   encoding: unicode
-  host: localhost
-  port: 5432
+#  host: localhost
+#  port: 5432
 #  username: postgres
 #  password: postgres
